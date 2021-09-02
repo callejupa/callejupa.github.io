@@ -20,6 +20,7 @@
     "callejupa",
     "Developer"
   ],
+  "main": "/public/index",
   "license": "0BSD",
   "bugs": {
     "url": "https://github.com/callejupa/callejupa.github.io/issues"
